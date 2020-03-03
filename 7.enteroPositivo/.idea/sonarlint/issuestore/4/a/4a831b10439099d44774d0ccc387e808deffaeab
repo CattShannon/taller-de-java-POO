@@ -1,0 +1,7 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ ÔÓ8Èæ•î‰.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“‹ö½ÿÿÿÿÿ8Èæ•î‰.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ž¦Œîúÿÿÿÿ8Èæ•î‰.
+Nsquid:S1481"+Remove this unused "Seguir" local variable.(“‹ö½ÿÿÿÿÿ8Èæ•î‰.
